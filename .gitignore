@@ -46,7 +46,6 @@ out/
 **/.idea
 
 #Xcode / Objective-c Ignores
-
 .DS_Store
 
 ## Build generated
